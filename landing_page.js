@@ -1,7 +1,7 @@
 document.querySelector("#img1box1").addEventListener("click", myImgFun);
 function myImgFun(){
     event.preventDefault();
-    window.location.href="landingPage.html";
+    window.location.href="index.html";
     var name1 = document.querySelector("#reflect").innerText;
     if(name1 === "Amankumar@gmail.com"){
         document.querySelector("#reflect").style.opacity = "1";

@@ -1,6 +1,6 @@
 document.querySelector("#img1box1").addEventListener("click", myImgFun);
 function myImgFun(){
-    window.location.href="landingPage.html";
+    window.location.href="index.html";
     var name = document.querySelector("#reflect").innerText;
     if(name === "Amankumar@gmail.com"){
         document.querySelector("#reflect").style.display = "flex";

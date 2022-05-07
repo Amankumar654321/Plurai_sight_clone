@@ -1,6 +1,6 @@
 document.querySelector("#img1box1").addEventListener("click", myImgFun);
 function myImgFun(){
-    window.location.href="landingPage.html";
+    window.location.href="index.html";
 }
 document.querySelector("#business").addEventListener("click", mytermFum);
  

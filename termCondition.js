@@ -5,7 +5,7 @@ function mytermFum(){
 }
 document.querySelector("#img1box1").addEventListener("click", myImgFun);
 function myImgFun(){
-    window.location.href="landingPage.html";
+    window.location.href="index.html";
 }
 document.querySelector(".form").addEventListener("click", myplatforfun);
 function myplatforfun(){
