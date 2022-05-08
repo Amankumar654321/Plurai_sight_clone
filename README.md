@@ -20,7 +20,7 @@ for Team page
 ![image](https://user-images.githubusercontent.com/101914524/167178466-fa71f493-d03e-44c2-8035-00ced22ae17f.png)
 The contact page
 ![image](https://user-images.githubusercontent.com/101914524/167178547-ec2b9982-157f-4a95-94f0-53a59e29dd76.png)
-The signup page
+The signup page, when I enter the username:-Amankuamr@gmail.com and password- 123456789 then a alert message will come that show the login is sucessfull , also the email is appeared below the sigin option on the right of the corner.
 ![image](https://user-images.githubusercontent.com/101914524/167178627-0305cb36-c815-4544-968c-62edeb598ccc.png)
 The Terms and condition page
 ![image](https://user-images.githubusercontent.com/101914524/167178739-76e5fbc7-c3bc-466c-badb-bd6ba3a354a4.png)
